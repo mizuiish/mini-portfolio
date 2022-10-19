@@ -98,7 +98,7 @@ body{
 }
 
 .informacoes-abas .descricao{
-    font-size: 20px;
+    font-size: 18px;
     max-height: 180px;
     overflow-y: auto;
     padding-right: 15px;
